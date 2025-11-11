@@ -1,0 +1,9 @@
+[
+  {
+    "url": "https://example.com/broken-page",
+    "isBaseWebsite": true,
+    "httpStatus": 404,
+    "title": "Broken Page",
+    "referrer": "https://example.com/"
+  }
+]
